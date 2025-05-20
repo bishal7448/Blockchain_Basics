@@ -16,4 +16,5 @@ contract Payable {
     function transferEther() public {
         owner.transfer(1 ether);
     }
+
 }
