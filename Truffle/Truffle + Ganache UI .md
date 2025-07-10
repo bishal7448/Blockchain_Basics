@@ -37,7 +37,20 @@ networks: {
 }
 ```
 
-### 4. Compile & Migrate
+### 4. Important: Add Project to Ganache UI
+Before you compile and migrate, make sure to:
+
+Open Ganache UI
+
+Click on "New Workspace" or use the default workspace
+
+Under "Truffle Projects", click "Add Project"
+
+Select the truffle-config.js file from your Truffle project directory
+
+✅ This lets Ganache UI automatically detect your migrations, contracts, and transactions.
+
+### 5. Compile & Migrate
 Compile your smart contracts:
 
 ```bash
