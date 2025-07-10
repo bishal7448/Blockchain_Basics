@@ -3,7 +3,8 @@
 Ganache also comes with a UI application (Desktop app) which runs on port 7545 by default.
 
 ### 1. Download Ganache UI
-Download from: 
+
+Download from: https://archive.trufflesuite.com/ganache/
 
 ### 2. Initialize a Truffle Project
 
