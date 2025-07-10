@@ -32,4 +32,4 @@ After installation, confirm it by running:
 truffle version
 ```
 
-You should see the installed version of Truffle, along with versions of Solidity, Node, and Web3.
+You should see the installed version of Truffle, along with versions of Solidity, Ganache, Node, and Web3.
