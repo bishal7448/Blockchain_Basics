@@ -5,4 +5,8 @@ A function is a block of code that performs a task. It can be called and reused 
 # Setter and Getter Functions
 
 When you call a setter function, it creates a transaction that needs to be mined and costs gas, because it changes the blockchain state.
+<<<<<<< HEAD
 In contrast, a getter function is a read-only call that does not create a transaction, doesn't cost gas, and does not change the blockchain.
+=======
+In contrast, a getter function is a read-only call that does not create a transaction, doesn't cost gas, and does not change the blockchain.
+>>>>>>> da9a698f6b9044107a35cb0abe5941f25bb40853
